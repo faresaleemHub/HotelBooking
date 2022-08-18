@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">HotelBooking</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="countries">
+        <item>Gaza</item>
+        <item>Rafah</item>
+        <item>Khanyounes</item>
+        <item>Beat-Lahia</item>
+        <item>Al-Atatra</item>
+        <item>Dear-Al-Balah</item>
+        <item>Al-Nosairate</item>
+        <item>Al-Moqraqa</item>
+    </string-array>
+    <string name="username"> Hello fares</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+</resources>
