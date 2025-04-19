@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "931193278318",
+    "project_id": "hotelbooking-fb998",
+    "storage_bucket": "hotelbooking-fb998.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931193278318:android:1a6914fbcaab7c007cfb7f",
+        "android_client_info": {
+          "package_name": "fares.saleem.android.myprojects.hotelbooking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931193278318-stunaf1iag5lbvp84uatv5a8eudeo97d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAseycNpJMwLc5G9-4KUqgZBRi-SjOXQ_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931193278318-stunaf1iag5lbvp84uatv5a8eudeo97d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

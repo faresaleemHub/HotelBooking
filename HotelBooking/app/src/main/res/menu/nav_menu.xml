@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/homeItem"
+        android:title="Home"
+        android:icon="@drawable/home"
+        android:checked="true" />
+
+    <item android:id="@+id/favouritesItem"
+        android:title="Favourites"
+        android:icon="@drawable/favorite"/>
+
+    <item android:id="@+id/reservedItem"
+        android:title="Reservations"
+        android:icon="@drawable/reserved"/>
+
+
+    <item android:id="@+id/searchtItem"
+        android:title="Explore"
+        android:icon="@drawable/search"/>
+
+    <item android:id="@+id/profiletItem"
+        android:title="Profile"
+        android:icon="@drawable/profile"/>
+</menu>

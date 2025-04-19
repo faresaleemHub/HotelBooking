@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/PopUpMenu_details"
+        android:title="Details"
+        android:icon="@drawable/more"/>
+
+    <item android:id="@+id/PopUpMenu_Call"
+        android:title="Call chalet's Owner"
+        android:icon="@drawable/phone"/>
+
+</menu>
